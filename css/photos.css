@@ -68,6 +68,8 @@ img {
 	max-width: 97.3%;
 	margin: 5px;
 	transition: all 0.5s;
+	object-fit: scale-down;
+
 }
 
 img:hover {
