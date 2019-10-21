@@ -1,0 +1,107 @@
+body{
+	padding-top: 70px;
+	margin: 0;
+	font-family: Roboto Condensed, Helvetica, sans-serif;
+	background-color: white;
+	font-size: 20px
+	line-height: 30px;
+}
+
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: .5px;
+}
+
+header h1{
+	color: #2f3e57;
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 50px;
+
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	color: #2f3e57;
+}
+
+p{
+	font-size: 20px;
+}
+
+
+footer{
+	background-color: #2f3e57;
+	text-align: center;
+	color: white;
+	padding: 20px;
+}
+footer p{
+	margin: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+.containerr {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+img {
+	width: 450px;
+	height: 300px;
+	max-width: 97.3%;
+	margin: 5px;
+	transition: all 0.5s;
+}
+
+img:hover {
+	transform: scale(1.1);
+	animation
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	margin-bottom: 15px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #2f3e57;
+	padding-bottom: 5px;
+  }
+
+li {
+	float: left;
+  }
+  
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+  }
+  
+li a:hover {
+	color: white;
+	background-color: #475e85;
+  }
+
+  .navbar-expand-md, navbar-dark, fixed-top bg-dark {
+    background-color: #2f3e57;
+	text-decoration-color: white;
+}
