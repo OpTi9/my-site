@@ -140,7 +140,7 @@ li a:hover {
 	color: white;
   }
 
-  .navbar-expand-md, navbar-dark, fixed-top bg-dark {
+  .navbar-expand-md {
     background-color: #2f3e57;
     border-color: #2f3e57;
 }

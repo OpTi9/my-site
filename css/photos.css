@@ -68,6 +68,8 @@ img {
 	max-width: 97.3%;
 	margin: 5px;
 	transition: all 0.5s;
+	object-fit: scale-down;
+
 }
 
 img:hover {
@@ -101,7 +103,7 @@ li a:hover {
 	background-color: #475e85;
   }
 
-  .navbar-expand-md, navbar-dark, fixed-top bg-dark {
-    background-color: #2f3e57;
+.navbar-expand-md {
+	background-color: #2f3e57;
 	text-decoration-color: white;
 }
