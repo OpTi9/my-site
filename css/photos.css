@@ -96,3 +96,9 @@ img:hover {
 	  max-width: 100%;
 	}
   }
+
+  .navbar, .navbar-inverse, .sticky-top{
+	position: fixed;
+    width: 100%;
+    top: 0;
+  }
