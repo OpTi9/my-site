@@ -101,3 +101,15 @@ body {
 .button:hover {
 	background-color: #475e85;	
 }
+
+.navbar {
+	z-index: 1;
+}
+
+.navbar-expand-lg {
+	z-index: 1;
+}
+
+.iphone {
+	z-index: 1;
+}
