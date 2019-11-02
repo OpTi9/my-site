@@ -1,5 +1,4 @@
 body{
-	margin: 0;
 	font-family: Roboto Condensed, Helvetica, sans-serif;
 	background-color: white;
 	font-size: 20px
@@ -11,6 +10,7 @@ header{
 	background-color: white;
 	text-align: center;
 	padding-bottom: .5px;
+	margin-bottom: 20px;
 }
 
 header h1{
@@ -57,10 +57,13 @@ h3{
 }
 
 footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
 	background-color: #343A40;
 	text-align: center;
 	color: white;
-	padding: 20px;
+	padding: 15px;
 }
 
 footer p{
