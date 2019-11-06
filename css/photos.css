@@ -107,3 +107,8 @@ img:hover {
     width: 100%;
 	top: 0;
   }
+  
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
