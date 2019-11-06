@@ -70,6 +70,7 @@ img:hover {
 	display: flex;
 	flex-wrap: wrap;
 	padding: 0 4px;
+	margin-bottom: 35px;
   }
   
   /* Create four equal columns that sits next to each other */
