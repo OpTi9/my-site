@@ -1,1 +1,1 @@
- [LINK:](https://www.ezhaev.xyz).
+**Link: https://www.ezhaev.xyz **
