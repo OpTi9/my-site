@@ -1,4 +1,4 @@
-**Link:** https://ezhaev.tech
+**Link:** ezhaev.tech
 
 **Used:**
 * HTML5
