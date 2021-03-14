@@ -1,4 +1,4 @@
-**Link:** https://www.ezhaev.xyz
+**Link:** https://ezhaev.tech
 
 **Used:**
 * HTML5
